@@ -1,0 +1,8 @@
+site_name: 'iac-talos-cluster'
+site_description: 'Reusable Terraform module: Talos machine configuration for a cluster'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
