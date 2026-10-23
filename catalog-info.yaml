@@ -4,7 +4,6 @@ metadata:
   name: iac-talos-cluster
   description: Reusable Terraform module that renders the Talos machine configuration of a cluster
   annotations:
-    github.com/project-slug: cmoreira-dev/iac-talos-cluster
     backstage.io/techdocs-ref: dir:.
 spec:
   type: library
